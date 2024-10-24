@@ -508,6 +508,7 @@
 							<CreationDate>2024-10-24T10:55:20.352</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
+							<FullTextSearchable>false</FullTextSearchable>
 							<Length>64</Length>
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
@@ -596,6 +597,7 @@
 							<CreationDate>2024-10-24T10:55:20.351</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
+							<FullTextSearchable>false</FullTextSearchable>
 							<Length>256</Length>
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>

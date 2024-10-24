@@ -20,6 +20,7 @@
 	<HideIfNoResults>false</HideIfNoResults>
 	<IsCardViewEnabled>false</IsCardViewEnabled>
 	<IsChartViewEnabled>false</IsChartViewEnabled>
+	<IsHighlightUnread>false</IsHighlightUnread>
 	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId>00505601-18E6-A1EF-A47D-99E30E9000F7</LayoutId>
@@ -27,6 +28,7 @@
 	<SecuredByEntity>false</SecuredByEntity>
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
 	<ShowCreateButton>true</ShowCreateButton>
+	<ShowCustomActions>false</ShowCustomActions>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
 	<UserVisible>true</UserVisible>
 	<ActionBar/>
@@ -40,6 +42,7 @@
 	<ChartViewConfigurations/>
 	<ConditionalCountCriteria/>
 	<CreatableAssociations/>
+	<CustomActionAssociations/>
 	<DisplayName>
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
@@ -62,7 +65,7 @@
 	<FilterCriteria>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-18E6-A1EF-A47D-99E30E8C80F7">
 			<DocumentID>00505601-18E6-A1EF-A47D-99E30E8C40F7</DocumentID>
 			<Name>FilterCriteria</Name>
@@ -114,7 +117,7 @@
 	<WorklistColumns>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="00505601-18E6-A1EF-A47D-99E30E8A00F7">
 			<DocumentID>00505601-18E6-A1EF-A47D-99E30E89C0F7</DocumentID>
 			<Name>Untitled WorklistColumn</Name>
